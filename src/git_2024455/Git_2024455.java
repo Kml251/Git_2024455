@@ -15,7 +15,7 @@ public class Git_2024455 {
      */
     public static void main(String[] args) {
         // This is a test project for conneting to GitHub.
-        
+        System.out.println("Hello World!");
         System.out.println("Kamil 2024455");
     }
     
